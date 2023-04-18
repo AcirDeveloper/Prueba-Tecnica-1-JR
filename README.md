@@ -44,4 +44,4 @@ npm start
 - La aplicación utiliza la biblioteca `wordpos` para obtener la primera palabra del hecho recuperado.
 - La aplicación utiliza la biblioteca `react-bootstrap` para mostrar la imagen del gato y el botón.
 - La aplicación utiliza la biblioteca `dotenv` para obtener las variables de entorno definidas en el archivo `.env`.
-# Prueba-Tecnica-1-JR
+
